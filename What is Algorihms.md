@@ -17,3 +17,15 @@ Suppose you're gonna make an algorithm to sum two numbers. How would it be done?
 - Send input (same as Collect the ingredients)
 - Make the sum of the inputs (same as Process the ingredients to make the dis)
 - Get the output (same as Serve the dish to the consumer)
+  ||
+  ||
+  ||
+  ||
+  ||
+  \/
+
+# Characteristics of an algorithms
+
+- It should have well defined inputs and outputs
+- Each step should be clear
+- It should be Language Independent
