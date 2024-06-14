@@ -1,7 +1,19 @@
 # What is Algorithms?
 
-Algorithms are step-by-step procedures or sets of rules used to solve problems or perform specific tasks. They are fundamental to computer science and programming, as they provide a systematic approach to problem-solving.
+An algorithms is kind of a process to make a food.
 
-- Algorithms can be expressed in various forms, such as pseudocode or flowcharts, and can be implemented in different programming languages.
-- They are essential for designing efficient and optimized solutions, enabling computers to process and manipulate data effectively.
-- Understanding algorithms is crucial for developers to write efficient code and create innovative software solutions.
+## Example
+
+Suppose you are making a tasty dish of noodles. What would you do?
+
+- Collect the ingredients
+- Process the ingredients to make the dis
+- Serve the dish to the consumer
+
+in the same way algorithm works.
+
+Suppose you're gonna make an algorithm to sum two numbers. How would it be done?
+
+- Send input (same as Collect the ingredients)
+- Make the sum of the inputs (same as Process the ingredients to make the dis)
+- Get the output (same as Serve the dish to the consumer)
